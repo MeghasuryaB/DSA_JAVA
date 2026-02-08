@@ -12,5 +12,6 @@ public class intsum {
             n=n/10;
         }
         System.out.println("Total="+total);
+        s.close();
     }
 }
