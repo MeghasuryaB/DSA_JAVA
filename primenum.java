@@ -21,7 +21,7 @@ public class primenum {
        int n=s.nextInt();
        
        sieve(n);
-       
+       s.close();
 
     }
 }
